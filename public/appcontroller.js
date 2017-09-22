@@ -73,7 +73,7 @@ mainapp.config( function ($routeProvider) {
 				})
 		.otherwise(
 				{
-					redirectTo: '/report'}
+					redirectTo: '/login'}
 				);
 });
 

@@ -34,7 +34,7 @@ var hostname = 'localhost';
 var hostport = 3000;
 
 app.get('/', function(req, res){
-	res.redirect('./public/index.html');
+	res.redirect('./public/login.html');
 
 });
 
