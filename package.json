@@ -6,10 +6,10 @@
 		"start": "node app.js"
 	},
 	"dependencies": {
-		"express": "4.12.x",
-		"cfenv": "1.0.x",
-		"body-parser": "1.11.0",
-		"request": "2.55.0"
+		"express": "x.x.x",
+		"cfenv": "x.x.x",
+		"body-parser": "x.x.0",
+		"request": "x.x.0"
 	},
 	"repository": {}
 }
